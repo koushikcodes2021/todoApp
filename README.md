@@ -1,7 +1,6 @@
-# todoapp
+# todAapp
 
-A new Flutter project.
-
+A simple todo app created using Flutter and SQLite
 ## Getting Started
 
 This project is a starting point for a Flutter application.
