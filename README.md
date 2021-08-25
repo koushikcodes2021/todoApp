@@ -1,8 +1,8 @@
-# todoAapp
+# todoApp
 
 A simple todo app created using Flutter and SQLite
 
-## Apk link
+## APK link
 https://drive.google.com/file/d/1IkFmtJxSKxIGo_YguJlhec0pbP7v4-pe/view?usp=sharing
 
 ## App Screenshots
